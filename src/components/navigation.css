@@ -1,0 +1,28 @@
+.navigation-container1 {
+  display: contents;
+}
+ 
+.navigation-thq-navigation-cart-count-elm {
+  color: var(--color-on-secondary);
+  padding: 2px 6px;
+  font-size: 0.7rem;
+  background: var(--color-secondary);
+  font-weight: 700;
+  border-radius: var(--border-radius-full);
+}
+ 
+.navigation-container2 {
+  display: none;
+}
+ 
+.navigation-container3 {
+  display: contents;
+}
+ 
+.navigation-container4 {
+  display: none;
+}
+ 
+.navigation-container5 {
+  display: contents;
+}
